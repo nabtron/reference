@@ -1,6 +1,7 @@
 <?php
 
 // how about we make it check if this don't work then go for file_get_contents
+// reference: https://knowledgecornor.blogspot.com/2013/10/filegetcontents-vs-curl.html
 
 function curl_get_contents($url) {
        // Initiate the curl session
