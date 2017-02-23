@@ -1,5 +1,7 @@
 <?php
 
+//reference: https://www.sanwebe.com/2013/09/combine-js-or-css-files-with-php
+
 function combine_my_files($array_files, $destination_dir, $dest_file_name){
 
     if(!is_file($destination_dir . $dest_file_name)){ //continue only if file doesn't exist
