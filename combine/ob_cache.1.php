@@ -1,6 +1,7 @@
 <?php
 
-//reference: https://ikreativ.com/combine-minify-css-with-php/
+// reference: https://ikreativ.com/combine-minify-css-with-php/
+// headers? check this: http://stackoverflow.com/questions/9862904/css-merging-with-php
 
 header('Content-type: text/css');
 ob_start("compress");
