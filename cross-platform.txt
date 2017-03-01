@@ -1,0 +1,14 @@
+Certain tools for cross platform development
+
+C# based
+--------
+- Visual Studio + .Net Cli & Mono
+- Xamarian 
+
+Html/Css based
+--------------
+- nw.js
+- electron
+- phantomjs
+- Qt
+- tint
