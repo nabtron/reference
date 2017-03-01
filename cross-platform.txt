@@ -12,3 +12,6 @@ Html/Css based
 - phantomjs
 - Qt
 - tint
+
+ref:
+https://www.bignerdranch.com/blog/ember-js-and-electron-build-desktop-apps-with-web-technologies/
