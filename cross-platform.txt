@@ -15,3 +15,4 @@ Html/Css based
 
 ref:
 https://www.bignerdranch.com/blog/ember-js-and-electron-build-desktop-apps-with-web-technologies/
+https://github.com/nwjs/nw.js/wiki/List-of-apps-and-companies-using-nw.js
