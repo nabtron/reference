@@ -1,0 +1,3 @@
+jquery document.ready not being defined properly, add this instead of including jquery directly first:
+
+    window.$ = window.jQuery = require('./assets/js/jquery-3.1.1.min.js');
