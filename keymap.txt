@@ -1,0 +1,5 @@
+actionscript 
+
+tell application "Terminal"
+	do script "npm start" in window 1
+end tell
