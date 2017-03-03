@@ -22,3 +22,7 @@ http://courses.washington.edu/hypertxt/cgi-bin/students.washington.edu/trnicol5/
 ### table sorter tutorials
 
 https://www.granneman.com/webdev/coding/css/sorting-tables/
+
+### 10 Open-Source JavaScript Data Chart Libraries Worth Considering
+
+https://speckyboy.com/open-source-javascript-data-chart-libraries/
