@@ -26,3 +26,7 @@ https://www.granneman.com/webdev/coding/css/sorting-tables/
 ### 10 Open-Source JavaScript Data Chart Libraries Worth Considering
 
 https://speckyboy.com/open-source-javascript-data-chart-libraries/
+
+### Top 50 Lightweight JavaScript Plugins & Libraries from 2016
+
+https://speckyboy.com/top-50-javascript-2016/
