@@ -10,3 +10,7 @@ http://ourcodeworld.com/articles/read/287/how-to-create-a-custom-frameless-windo
 # Atom Electron Close and Minimize window using the html button and javascript
 
 http://stackoverflow.com/questions/38932098/atom-electron-close-and-minimize-window-using-the-html-button-and-javascript?noredirect=1&lq=1
+
+# jquery alter, remove and add class
+
+https://gist.github.com/peteboere/1517285
