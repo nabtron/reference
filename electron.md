@@ -36,3 +36,13 @@ https://speckyboy.com/top-50-javascript-2016/
 ### How to connect to a MySQL database in Electron Framework
 
 http://ourcodeworld.com/articles/read/259/how-to-connect-to-a-mysql-database-in-electron-framework
+
+## Package
+
+### Make sure that the "wine" executable is in your PATH.
+
+https://github.com/electron-userland/electron-packager#building-windows-apps-from-non-windows-platforms
+
+### How to build (publish) a release (distribution) of an Electron Application with the CLI
+
+http://ourcodeworld.com/articles/read/262/how-to-build-publish-a-release-distribution-of-an-electron-application-with-the-cli
