@@ -30,3 +30,9 @@ https://speckyboy.com/open-source-javascript-data-chart-libraries/
 ### Top 50 Lightweight JavaScript Plugins & Libraries from 2016
 
 https://speckyboy.com/top-50-javascript-2016/
+
+## Database
+
+### How to connect to a MySQL database in Electron Framework
+
+http://ourcodeworld.com/articles/read/259/how-to-connect-to-a-mysql-database-in-electron-framework
