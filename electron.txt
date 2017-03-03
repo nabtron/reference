@@ -7,4 +7,6 @@ jquery document.ready not being defined properly, add this instead of including 
 
 http://ourcodeworld.com/articles/read/287/how-to-create-a-custom-frameless-window-without-title-bar-with-minimize-maximize-and-close-controls-in-electron-framework
 
+# Atom Electron Close and Minimize window using the html button and javascript
+
 http://stackoverflow.com/questions/38932098/atom-electron-close-and-minimize-window-using-the-html-button-and-javascript?noredirect=1&lq=1
