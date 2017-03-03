@@ -14,3 +14,7 @@ http://stackoverflow.com/questions/38932098/atom-electron-close-and-minimize-win
 # jquery alter, remove and add class
 
 https://gist.github.com/peteboere/1517285
+
+# custom tooltip
+
+http://courses.washington.edu/hypertxt/cgi-bin/students.washington.edu/trnicol5/engl282/a5/index.html
