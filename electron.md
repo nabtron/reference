@@ -37,6 +37,10 @@ https://speckyboy.com/top-50-javascript-2016/
 
 http://ourcodeworld.com/articles/read/259/how-to-connect-to-a-mysql-database-in-electron-framework
 
+### Query builder
+
+http://knexjs.org
+
 ## Package
 
 ### Make sure that the "wine" executable is in your PATH.
