@@ -3,6 +3,10 @@
     window.$ = window.jQuery = require('./assets/js/jquery-3.1.1.min.js');
 
 
+### Basel
+
+http://baseljs.github.io/#/
+
 ### How to create a custom frameless window (without title bar) with minimize,maximize and close controls in Electron Framework
 
 http://ourcodeworld.com/articles/read/287/how-to-create-a-custom-frameless-window-without-title-bar-with-minimize-maximize-and-close-controls-in-electron-framework
