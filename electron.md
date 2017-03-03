@@ -18,3 +18,7 @@ https://gist.github.com/peteboere/1517285
 ### custom tooltip
 
 http://courses.washington.edu/hypertxt/cgi-bin/students.washington.edu/trnicol5/engl282/a5/index.html
+
+### table sorter tutorials
+
+https://www.granneman.com/webdev/coding/css/sorting-tables/
