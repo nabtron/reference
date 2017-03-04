@@ -4,6 +4,10 @@
 
 https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron
 
+### Standard Dialogs in Electron
+
+http://mylifeforthecode.com/getting-started-with-standard-dialogs-in-electron/
+
 ### jquery document.ready not being defined properly, add this instead of including jquery directly first:
 
     window.$ = window.jQuery = require('./assets/js/jquery-3.1.1.min.js');
