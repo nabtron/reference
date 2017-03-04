@@ -1,7 +1,12 @@
+## Tutorials
+
+### Creating Desktop Applications With AngularJS and GitHub Electron
+
+https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron
+
 ### jquery document.ready not being defined properly, add this instead of including jquery directly first:
 
     window.$ = window.jQuery = require('./assets/js/jquery-3.1.1.min.js');
-
 
 ### Basel
 
