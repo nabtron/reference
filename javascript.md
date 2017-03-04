@@ -24,3 +24,6 @@ http://callmecavs.com/bricks.js/
 
 http://olifolkerd.github.io/tabulator/examples/
 
+#### hide seek, search feature
+
+http://vdw.github.io/HideSeek/
