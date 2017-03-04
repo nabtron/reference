@@ -27,3 +27,7 @@ http://olifolkerd.github.io/tabulator/examples/
 #### hide seek, search feature
 
 http://vdw.github.io/HideSeek/
+
+#### Match Height
+
+http://brm.io/jquery-match-height/
